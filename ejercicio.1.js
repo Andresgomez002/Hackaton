@@ -24,9 +24,9 @@ function cumpleParametros(cadena) {
   }
   
   // Ejemplo de uso
-  console.log(cumpleParametros("fchTuhA2")); // true
-  console.log(cumpleParametros("12345")); // false
-  console.log(cumpleParametros("ulop")); // false
+  console.log(cumpleParametros("fchTuhA2")); 
+  console.log(cumpleParametros("12345")); 
+  console.log(cumpleParametros("ulop")); 
 
   
   
